@@ -162,6 +162,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Second part of Airbnb: Joann Vuong
 
 Forster Asamany -[Github](https://github.com/fasamany1)
+Demeke Ayele  -[Github](https://github.com/gitDemeke)
 
 ## License
 Public Domain. No copy write protection. 
